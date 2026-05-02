@@ -19,3 +19,6 @@ O **Sentinela** é uma ferramenta leve e eficiente para monitoramento de integri
 git clone https://github.com/Pedro-F7/API-health-sentinel-.git
 cd API-health-sentinel-
 npm install
+
+
+<img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/acfbe232-56ed-460d-8f30-bbc464f68187" />

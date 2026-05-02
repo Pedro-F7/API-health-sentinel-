@@ -1,0 +1,7 @@
+{
+  "alvos": [
+    { "nome": "PokeAPI", "url": "https://pokeapi.co/api/v2/pokemon/1" },
+    { "nome": "Google", "url": "https://www.google.com" },
+    { "nome": "Pagamentos (Erro)", "url": "https://httpstat.us/404" }
+  ]
+}
